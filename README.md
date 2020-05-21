@@ -4,6 +4,7 @@ Schedule Generator is a program that generates school schedules based on the inf
 ## Requirements :
 * Python 3.x.x
 * pandas library
+
 ``` pip install pandas ```
 
 ## Usage : 
