@@ -2,7 +2,7 @@
 Schedule Generator is a program that generates school schedules based on the information given about teachers.
 
 ## Requirements :
-* Python 3.x.x
+* Python 3.6.x or upper
 * pandas library
 
 ``` pip install pandas ```
